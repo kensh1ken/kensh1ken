@@ -1,3 +1,12 @@
+<div align="center">
+    <a>
+      <img src ="https://komarev.com/ghpvc/?username=kensh1ken&style=for-the-badge&color=9c1919&label=eye+bleached">
+    </a>
+</div>
+
+
+---
+
 <br>
 
 <p align="center">
